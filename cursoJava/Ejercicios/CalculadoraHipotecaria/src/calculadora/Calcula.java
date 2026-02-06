@@ -8,7 +8,6 @@ public class Calcula {
 	public static void main(String[] args)
 	{
 		
-		
 		Scanner sc = new Scanner(System.in);
 		double capitalInicial = 0;
 		double tipoInteres = 0;
